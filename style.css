@@ -1,0 +1,29 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background: #5d968f;
+}
+.counter{
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
+button{
+    background: #c24d82;
+    border: 0px;
+    color: #ffffff;
+    padding: 18px 40px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+p{
+    font-size: 22px;
+    margin: 0;
+    font-weight: 500;
+    color: #ffffff;
+}
